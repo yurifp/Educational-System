@@ -1,0 +1,885 @@
+/* screen - tela-inicial */
+
+.tela-inicial {
+  background-color: transparent;
+  border: 1px none;
+  margin: 0px;
+  min-height: 660px;
+  min-width: 1280px;
+  overflow-y: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.tela-inicial .dashboard-aDDP3l {
+  background-color: var(--haiti);
+  height: 660px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.tela-inicial .conteudo01-lCaEdW {
+  background-color: transparent;
+  height: 365px;
+  left: calc(50.00% - 577px);
+  position: absolute;
+  top: 192px;
+  width: 383px;
+
+  animation: bounce; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3s;
+}
+
+.tela-inicial .rectangle-706-133lja {
+  background-color: #9A9A9A;
+  border-radius: 11.53px;
+  height: 357px;
+  left: calc(50.00% - 182px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 372px;
+}
+
+.tela-inicial .rectangle-692-133lja {
+  background-color: var(--white);
+  border-radius: 13.54px;
+  height: 345px;
+  left: calc(50.00% - 192px);
+  top: 0px;
+  width: 363px;
+}
+
+.tela-inicial .contedo-01-133lja {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 94px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.tela-inicial .mini-1-133lja {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% - 178px);
+  position: absolute;
+  top: 67px;
+  width: 106px;
+}
+
+.tela-inicial .rectangle-707-LrC4TF {
+  background-color: #9A9A9A;
+  border-radius: 20px;
+  height: 100px;
+  left: calc(50.00% - 53px);
+  top: 0px;
+  width: 100px;
+}
+
+.tela-inicial .___________-___________-___________-LrC4TF {
+  top: 27px;
+}
+
+.tela-inicial .___________-___________-___________-x7sPK6 {
+  top: 19px;
+}
+
+.tela-inicial .texto-LrC4TF {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 16px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tela-inicial .dash-LrC4TF {
+  left: calc(50.00% - 40px);
+}
+
+.tela-inicial .ellipse-5-bHm0Wl {
+  background-color: var(--white);
+}
+
+.tela-inicial .rectangle-692-bHm0Wl {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 1px);
+  top: 2px;
+  width: 2px;
+}
+
+.tela-inicial .mini-2-133lja {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% - 62px);
+  position: absolute;
+  top: 67px;
+  width: 102px;
+}
+
+.tela-inicial .rectangle-708-3w2XK0 {
+  background-color: #9A9A9A;
+  border-radius: 20px;
+  height: 100px;
+  left: calc(50.00% - 51px);
+  top: 0px;
+  width: 100px;
+}
+
+.tela-inicial .dash-3w2XK0 {
+  left: calc(50.00% - 44px);
+}
+
+.tela-inicial .ellipse-5-FZ1D0x {
+  background-color: var(--steel-gray);
+}
+
+.tela-inicial .rectangle-692-FZ1D0x {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 1px);
+  top: 2px;
+  width: 2px;
+}
+
+.tela-inicial .infogrfico-3w2XK0 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 36px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tela-inicial .botes-3w2XK0 {
+  background-color: transparent;
+  height: 8px;
+  left: calc(50.00% - 32px);
+  position: absolute;
+  top: 31px;
+  width: 62px;
+}
+
+.tela-inicial .rectangle-702-z9519h {
+  background-color: #bdbcd4;
+  border-radius: 22px;
+  height: 8px;
+  left: calc(50.00% - 31px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.tela-inicial .linha-z9519h {
+  background-color: transparent;
+  height: 1px;
+  left: calc(50.00% - 27px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 53px;
+}
+
+.tela-inicial .bt1-z9519h {
+  background-color: transparent;
+  height: 5px;
+  left: calc(50.00% - 28px);
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.tela-inicial .bt2-z9519h {
+  background-color: transparent;
+  height: 5px;
+  left: calc(50.00% - 18px);
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.tela-inicial .bt3-z9519h {
+  background-color: transparent;
+  height: 5px;
+  left: calc(50.00% - 8px);
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.tela-inicial .bt4-z9519h {
+  background-color: transparent;
+  height: 5px;
+  left: calc(50.00% + 2px);
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.tela-inicial .bt5-z9519h {
+  background-color: transparent;
+  height: 5px;
+  left: calc(50.00% + 12px);
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.tela-inicial .bt6-z9519h {
+  background-color: transparent;
+  height: 5px;
+  left: calc(50.00% + 23px);
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.tela-inicial .b1-r-3w2XK0 {
+  background-color: transparent;
+  height: 44px;
+  left: calc(50.00% - 40px);
+  position: absolute;
+  top: 42px;
+  width: 79px;
+}
+
+.tela-inicial .ret-TJPJ6l {
+  background-color: #B3C4FF;
+  height: 26px;
+  left: calc(50.00% - 40px);
+  top: 4px;
+  width: 79px;
+}
+
+.tela-inicial .ret-iehUVn {
+  background-color: #7a71ec33;
+  height: 7px;
+  left: calc(50.00% - 12px);
+  top: 37px;
+  width: 23px;
+}
+
+.tela-inicial .rectangle-669-TJPJ6l {
+  background-color: var(--haiti);
+  border-radius: 7px;
+  height: 4px;
+  left: calc(50.00% - 40px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 79px;
+}
+
+.tela-inicial .mini-3-133lja {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% + 54px);
+  position: absolute;
+  top: 67px;
+  width: 102px;
+}
+
+.tela-inicial .dash-ijh8r0 {
+  left: calc(50.00% - 43px);
+}
+
+.tela-inicial .ellipse-5-V79BXJ {
+  background-color: var(--steel-gray);
+}
+
+.tela-inicial .rectangle-692-V79BXJ {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 1px);
+  top: 2px;
+  width: 2px;
+}
+
+.tela-inicial .podcast-ijh8r0 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 28px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tela-inicial .pod-ijh8r0 {
+  background-color: transparent;
+  height: 65px;
+  left: calc(50.00% - 25px);
+  position: absolute;
+  top: 27px;
+  width: 48px;
+}
+
+.tela-inicial .rectangle-473-DQ8kk8 {
+  background-color: #eeeeee;
+  border-radius: 12px;
+  height: 65px;
+  left: calc(50.00% - 24px);
+  width: 48px;
+}
+
+.tela-inicial .rectangle-637-DQ8kk8 {
+  background-color: #B3C4FF;
+  border-radius: 12px;
+  height: 47px;
+  left: calc(50.00% - 20px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 40px;
+}
+
+.tela-inicial .polygon-1-DQ8kk8 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(50.00% - 6px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 54px;
+  width: 13px;
+}
+
+.tela-inicial .seta-direita-DQ8kk8 {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% + 8px);
+  position: absolute;
+  top: 54px;
+  width: 12px;
+}
+
+.tela-inicial .seta-esquerda-DQ8kk8 {
+  background-color: transparent;
+  height: 13px;
+  left: calc(50.00% - 18px);
+  position: absolute;
+  top: 54px;
+  width: 12px;
+}
+
+.tela-inicial .mini-4-133lja {
+  left: calc(50.00% - 122px);
+}
+
+.tela-inicial .rectangle-473-on9Hxz {
+  background-color: #604cd357;
+  border-radius: 9.98px;
+  height: 52px;
+  left: calc(50.00% - 36px);
+  width: 73px;
+}
+
+.tela-inicial .dash-5TIQoy {
+  left: calc(50.00% - 43px);
+}
+
+.tela-inicial .ellipse-5-yxZFE7 {
+  background-color: var(--steel-gray);
+}
+
+.tela-inicial .rectangle-692-yxZFE7 {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 1px);
+  top: 2px;
+  width: 2px;
+}
+
+.tela-inicial .video-01-5TIQoy {
+  background-color: #ffffff00;
+  color: #ffffff;
+  height: auto;
+  left: calc(50.00% - 31px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+
+}
+
+.tela-inicial .mini-4-GRV8Mq {
+  left: calc(50.00% + 4px);
+}
+
+.tela-inicial .rectangle-473-IcaNf0 {
+  background-color: #604cd357;
+  border-radius: 9.98px;
+  height: 52px;
+  left: calc(50.00% - 36px);
+  width: 73px;
+}
+
+.tela-inicial .dash-nRJyDu {
+  left: calc(50.00% - 43px);
+}
+
+.tela-inicial .ellipse-5-b33oZH {
+  background-color: var(--steel-gray);
+}
+
+.tela-inicial .rectangle-692-b33oZH {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 1px);
+  top: 2px;
+  width: 2px;
+}
+
+.tela-inicial .video-02-nRJyDu {
+  background-color: #ffffff00;
+  color: #FFFFFF;
+  height: auto;
+  left: calc(50.00% - 31px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tela-inicial .group-2929-lCaEdW {
+  background-color: transparent;
+  height: 278px;
+  left: calc(50.00% - 95px);
+  position: absolute;
+  top: 279px;
+  width: 320px;
+
+  animation: shakeX; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3s
+
+}
+
+.tela-inicial .rectangle-707-SVkDvN {
+  background-color: #9A9A9A;
+  border-radius: 9.45px;
+  height: 271px;
+  left: calc(50.00% - 147px);
+  top: 7px;
+  width: 305px;
+}
+
+.tela-inicial .rectangle-690-SVkDvN {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 265px;
+  left: calc(50.00% - 160px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+
+}
+
+.tela-inicial .x149772-3-SVkDvN {
+  background-color: transparent;
+  height: 168px;
+  left: calc(50.00% - 75px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64px;
+  width: 115px;
+
+  animation: tada; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 5s
+}
+
+.tela-inicial .indisponvel-SVkDvN {
+  left: calc(50.00% - 98px);
+}
+
+.tela-inicial .rectangle-694-lCaEdW {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 62px;
+  left: calc(50.00% - 589px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 405px;
+}
+
+.tela-inicial .contedos-lCaEdW {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 462px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  width: auto;
+}
+
+.tela-inicial .group-2930-lCaEdW {
+  background-color: transparent;
+  height: 278px;
+  left: calc(50.00% + 275px);
+  position: absolute;
+  top: 279px;
+  width: 317px;
+
+  animation: shakeX; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3s
+
+}
+
+.tela-inicial .rectangle-708-ZZwG5Q {
+  background-color: #9A9A9A;
+  border-radius: 9.45px;
+  height: 271px;
+  left: calc(50.00% - 148px);
+  top: 7px;
+  width: 305px;
+}
+
+.tela-inicial .rectangle-695-ZZwG5Q {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 265px;
+  left: calc(50.00% - 158px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.tela-inicial .indisponvel-ZZwG5Q {
+  left: calc(50.00% - 96px);
+}
+
+.tela-inicial .x149772-2-ZZwG5Q {
+  background-color: transparent;
+  height: 168px;
+  left: calc(50.00% - 66px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 66px;
+  width: 115px;
+
+  animation: tada; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 5s
+}
+
+.tela-inicial .login-aDDP3l {
+  background-color: transparent;
+  height: 660px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.tela-inicial .rectangle-619-yxpMYb {
+  background-color: #17143d;
+  box-shadow: 0px 8px 16px #0000001f;
+  height: 660px;
+  left: calc(50.00% - 640px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+
+.tela-inicial .frame-yxpMYb {
+  background-color: transparent;
+  height: 459px;
+  left: calc(50.00% - 693px);
+  position: absolute;
+  top: 201px;
+  width: 1280px;
+}
+
+.body {
+  background-color: #17143d!important;
+
+}
+
+.tela-inicial .group-2923-yxpMYb {
+  background-color: transparent;
+  height: 444px;
+  left: calc(50.00% - 198px);
+  position: absolute;
+  top: 92px;
+  width: 407px;
+}
+
+.tela-inicial .rectangle-678-GauRVZ {
+  background: linear-gradient(180deg, rgb(255, 255, 255) 49.82643127441406%, rgb(24.000000469386578, 21.000000648200512, 62.00000010430813) 100%);
+  background-color: transparent;
+  border-radius: 10px;
+  height: 444px;
+  left: calc(50.00% - 204px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 403px;
+}
+
+.tela-inicial .efetue-o-login-GauRVZ {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 111px);
+  letter-spacing: 0.00px;
+  line-height: 31.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 68px;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.tela-inicial .esqueceu-a-senha-GauRVZ {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% + 18px);
+  letter-spacing: 0.00px;
+  line-height: 31.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 291px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.tela-inicial .campo-1-GauRVZ {
+  background-color: transparent;
+  height: 61px;
+  left: calc(50.00% - 148px);
+  position: absolute;
+  top: 137px;
+  width: 302px;
+}
+
+.tela-inicial .campo-2-GauRVZ {
+  background-color: transparent;
+  height: 61px;
+  left: calc(50.00% - 148px);
+  position: absolute;
+  top: 219px;
+  width: 302px;
+}
+
+.tela-inicial .botao-login-GauRVZ {
+  background-color: transparent;
+  height: 66px;
+  left: calc(50.00% - 76px);
+  position: absolute;
+  top: 360px;
+  width: 158px;
+}
+
+.tela-inicial .___________-___________-___________ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-p);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: calc(50.00% - 36px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  width: auto;
+}
+
+.tela-inicial .dash {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.tela-inicial .ellipse-5 {
+  border-radius: 2.5px;
+  height: 5px;
+  left: calc(50.00% - 2px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.tela-inicial .group-2782 {
+  background-color: transparent;
+  height: 52px;
+  left: calc(50.00% - 37px);
+  position: absolute;
+  top: 24px;
+  width: 73px;
+}
+
+.tela-inicial .indisponvel {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.tela-inicial .mini-4 {
+  background-color: transparent;
+  height: 100px;
+  position: absolute;
+  top: 193px;
+  width: 102px;
+}
+
+.tela-inicial .rectangle-472 {
+  background-color: #B3C4FF;
+  border-radius: 9.98px;
+  height: 47px;
+  left: calc(50.00% - 34px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 68px;
+}
+
+.tela-inicial .rectangle-473 {
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+}
+
+.tela-inicial .rectangle-691 {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 1px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.tela-inicial .rectangle-692 {
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.tela-inicial .rectangle-693 {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 1px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.tela-inicial .rectangle-697 {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 2px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.tela-inicial .rectangle-698 {
+  background-color: var(--cararra-2);
+  height: 1px;
+  left: calc(50.00% - 2px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.tela-inicial .rectangle-699 {
+  background-color: var(--cararra);
+  height: 1px;
+  left: calc(50.00% - 2px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.tela-inicial .rectangle-707 {
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.tela-inicial .rectangle-708 {
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.tela-inicial .rectangle-710 {
+  background-color: #9A9A9A;
+  border-radius: 20px;
+  height: 100px;
+  left: calc(50.00% - 51px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.tela-inicial .ret {
+  border-radius: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+}
