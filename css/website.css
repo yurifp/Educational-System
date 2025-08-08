@@ -2313,10 +2313,6 @@ transition: opacity 1s;
 
 }
 
-.audioPlayer {
-
-}
-
 .classe-reveal {
   opacity: 0;
   transform: translateY(20px);
@@ -2841,24 +2837,6 @@ transition: opacity 1s;
   height: 199px;
 }
 
-.website .span0-deCs40 {
-}
-
-.website .span1-xQssyx {
-}
-
-.website .span2-Orux50 {
-}
-
-.website .span3-8dADy3 {
-}
-
-.website .span4-FdhxRL {
-}
-
-.website .span5-utGPZi {
-}
-
 .website .por-isso-reunimos-ex-C6EFcA {
   background-color: transparent;
   height: auto;
@@ -2885,24 +2863,6 @@ transition: opacity 1s;
   height: 402px;
 }
 
-.website .span0-ehuFV9 {
-}
-
-.website .span1-qC7HMx {
-}
-
-.website .span2-sY5Tzp {
-}
-
-.website .span3-tYxw0U {
-}
-
-.website .span4-tCISV8 {
-}
-
-.website .span5-y48eHr {
-}
-
 .website .polygon-5-sozAkV {
   height: 10px;
   left: calc(50.00% + 49px);
@@ -2911,7 +2871,7 @@ transition: opacity 1s;
 
 .website .rectangle-694-sozAkV {
   background-color: var(--fuzzy-wuzzy-brown);
-  height: 87px;
+  height: 104px;
   left: calc(50.00% - 120px);
   top: 2px;
   width: 173px;
