@@ -889,9 +889,9 @@ function botaovideo() {
   let containerResult = document.querySelector('#container__result');
   let selectedText = '';
 
-  // Função para exibir a caixa de feedback
+  
   function showPopup(event) {
-    event.preventDefault(); // Impede o menu de contexto padrão
+    event.preventDefault(); 
     containerResult.style.display = 'block';
     containerResult.style.top = `${event.clientY}px`;
     containerResult.style.left = `${event.clientX}px`;
@@ -912,24 +912,24 @@ function botaovideo() {
   }
   
 
-  // Função para ocultar a caixa de feedback
+
   function hidePopup() {
     containerResult.style.display = 'none';
   }
 
-  // Evento para capturar o texto selecionado
+ 
   document.addEventListener('mouseup', () => {
     selectedText = window.getSelection().toString().trim();
   });
 
-  // Evento para exibir a caixa de feedback ao clicar com o botão direito
+  
   document.addEventListener('contextmenu', (event) => {
     if (selectedText !== '') {
       event.preventDefault();
       fetch(url + encodeURIComponent(selectedText))
         .then((resposta) => resposta.json())
         .then((data) => {
-          // Verifica se há dados retornados
+         
           if (data.length > 0) {
             const palavra = data[0].word;
             const significado = data[0].xml;
@@ -941,18 +941,18 @@ function botaovideo() {
           } else {
             containerResult.innerHTML = `<p id="container__significado"><span>Não</span> foi possível encontrar o significado desta palavra!</p>`;
           }
-          showPopup(event); // Exibe o pop-up após obter os dados
+          showPopup(event); 
         })
         .catch(() => {
           containerResult.innerHTML = `<p id="container__significado"><span>Não</span> foi possível encontrar o significado desta palavra!</p>`;
-          showPopup(event); // Exibe o pop-up mesmo em caso de erro
+          showPopup(event);
         });
     } else {
       hidePopup();
     }
   });
 
-  // Evento para ocultar a caixa de feedback ao clicar fora dela
+  
   document.addEventListener('click', (event) => {
     if (!containerResult.contains(event.target) && event.target !== document.querySelector('#selectedText')) {
       hidePopup();
