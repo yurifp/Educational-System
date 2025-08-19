@@ -2,8 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
-    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
     <meta name="viewport" content="width=1280, maximum-scale=1.0" />
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
     <meta name="og:type" content="website" />
@@ -174,25 +172,25 @@
 
   <script>
     document.getElementById("loginForm").addEventListener("submit", function(event) {
-      event.preventDefault(); // Impede o envio do formulário
+      event.preventDefault(); //
   
-      // Obter os valores dos campos de email e senha
+
       var email = document.querySelector(".input-email").value;
       var password = document.querySelector(".campo-2-GauRVZ[type='password']").value;
   
-      // Validar os valores
+      
       if (email === "yuritec@outlook.com" && password === "teste45") {
-        // Ação de login bem-sucedida
+       
         alert("Login bem-sucedido!");
   
-        // Limpar os campos do formulário
+        
         document.querySelector(".input-email").value = "";
         document.querySelector(".campo-2-GauRVZ[type='password']").value = "";
       } else {
-        // Ação de login falhou
+        
         alert("Email ou senha inválidos!");
   
-        // Limpar o campo da senha
+        
         document.querySelector(".campo-2-GauRVZ[type='password']").value = "";
       }
     });
